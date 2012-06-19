@@ -56,9 +56,6 @@ Installation
 Known Issues
 ------------
 
- * in multi-slave setups: mouse cursor always returns to master, no matter how 
-   many screens are between the slave and the master.
- * in multi-slave setups: cursor always centers on return
  * always: mouse cursor transition checks are currently based on just the mouse 
    coordinates. This can result in some strange transitioning behaviour on the
    slave.
